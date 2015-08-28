@@ -1,0 +1,25 @@
+{
+  "name": "consistent-access",
+  "version": "0.1.0",
+  "description": "Node.js module for coordination access from different queries to a single object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qwol/consistent-access.git"
+  },
+  "keywords": [
+    "node.js",
+    "object",
+    "access",
+    "concurrence"
+  ],
+  "author": "Sergey Bobrovskikh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Qwol/consistent-access/issues"
+  },
+  "homepage": "https://github.com/Qwol/consistent-access#readme"
+}
